@@ -1,7 +1,3 @@
-<header style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Hi%20there!%20👋%20I'm%20jaemin!&fontSize=50">
-</header>
-
 Career
 -----
 
