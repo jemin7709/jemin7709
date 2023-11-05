@@ -3,6 +3,8 @@ Career
 
 | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|
+| 2023. 3 ~ 2023. 8 | CV track camper | Naver Boostcamp AI Tech 5th |
+| 2021. 7 ~ 2022. 11 | Undergraduate Research Intern | Inha University CVLab |
 | 2018. 3 ~ | Major in Computer Science | Inha University |
 
 Language
