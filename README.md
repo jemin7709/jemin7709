@@ -11,5 +11,5 @@ Language
 -----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemin7709&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemin7709&layout=compact&hide=jupyter%20notebook">
 </a>
