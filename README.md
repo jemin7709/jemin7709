@@ -1,15 +1,14 @@
-Career
------
+Hi 👋🏻
 
-| **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|
-| 2023. 3 ~ 2023. 8 | CV track camper | Naver Boostcamp AI Tech 5th |
-| 2021. 7 ~ 2022. 11 | Undergraduate Research Intern | Inha University CVLab |
-| 2018. 3 ~ | Major in Computer Science | Inha University |
+I'm Jaemin Park, AI Researcher/Engineer.
 
-Language
------
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemin7709&layout=compact&hide=jupyter%20notebook">
-</a>
+I've had the following experiences.
+*   **Hanyang Univ** (2024.07 - 2025.03)
+    *   Undergraduate Research Student
+*   **Inha Univ** (2018.03 - 2024.08)
+    *   Bachelor of Science in Computer Science and Engineering
+    *   GPA: 3.76/4.5 (Major GPA: 3.97/4.5)
+*   **Boostcamp AI Tech (Naver Connect Foundation)** (2023.03 - 2023.08)
+    *   5th Computer Vision Track
+*   **Inha Univ** (2021.07 - 2022.11)
+    *   Undergraduate Research Student
